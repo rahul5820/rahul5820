@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Footkar**
 
-- 📫 How to reach me **rr8305820@gmail.co**
+- 📫 How to reach me **rr8305820@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1v5nneidIbzFCVvcFJ6eM9m9JH5jBk5n6/view?usp=drive_link](https://drive.google.com/file/d/1v5nneidIbzFCVvcFJ6eM9m9JH5jBk5n6/view?usp=drive_link)
 
