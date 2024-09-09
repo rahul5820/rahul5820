@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://rahuldas.io)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Das</h1>
-<h3 align="center">A passionate React developer from India</h3>
+<h3 align="center">A passionate WEB( React) developer from India</h3>
 <img align="right alt="coding" width="400 src="https://www.google.com/search?q=programmer&udm=2&tbs=rimg:Cev-wQjJDhdFYXXs3QsYubIQsgIAwAIA2AIA4AIA&cs=1&rlz=1C1RXQR_enIN1074IN1075&hl=en&sa=X&ved=0CBoQuIIBahcKEwiwxP2s1bGIAxUAAAAAHQAAAAAQIw&biw=1536&bih=695&dpr=1.25#imgrc=35X6L1D39_KDvM&imgdii=6_7BCMkOF0X1vM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul5820&label=Profile%20views&color=0e75b6&style=flat" alt="rahul5820" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="rahul5820" alt="rahul5820" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul5820" alt="rahul5820" /></a> </p>
 
-- 🔭 I’m currently working on **Foot kart**
+- 🔭 I’m currently working on **Footkart**
 
 - 🌱 I’m currently learning **React,Nodejs,**
 
