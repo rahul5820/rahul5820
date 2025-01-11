@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs,**
 
-- 👯 I’m looking to collaborate on **Footkar**
+- 👯 I’m looking to collaborate on **Footkart**
 
 - 📫 How to reach me **rr8305820@gmail.com**
 
