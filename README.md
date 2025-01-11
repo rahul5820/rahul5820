@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rr8305820@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v5nneidIbzFCVvcFJ6eM9m9JH5jBk5n6/view?usp=drive_link](https://drive.google.com/file/d/1v5nneidIbzFCVvcFJ6eM9m9JH5jBk5n6/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YmYhFaw9GeynPCsFQVFKrWYua6cGm4bs/view?usp=sharing](https://drive.google.com/file/d/1v5nneidIbzFCVvcFJ6eM9m9JH5jBk5n6/view?usp=drive_link)
 
 - ⚡ Fun fact **Every Contribution Matter**
 
